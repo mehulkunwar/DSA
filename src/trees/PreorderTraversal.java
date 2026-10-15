@@ -11,15 +11,15 @@ import java.util.*;
 public class PreorderTraversal {
     public List<Integer> preorderTraversal(TreeNode root) {
         List<Integer> result = new ArrayList<>();
-        postOrder(root,result);
+        preOrder(root,result);
         return result;
     }
 
-    private void postOrder(TreeNode root, List<Integer> result){
+    private void preOrder(TreeNode root, List<Integer> result){
         if(root == null) return ;
 
         result.add(root.val);
-        postOrder(root.left,result);
-        postOrder(root.right,result);
+        preOrder(root.left,result);
+        preOrder(root.right,result);
     }
 }

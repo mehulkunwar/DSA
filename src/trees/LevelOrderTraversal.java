@@ -10,9 +10,9 @@ import java.util.*;
 
 public class LevelOrderTraversal {
 
-    public List<Integer> levelOrderTraversal(TreeNode root){
-        Queue<TreeNode> q = new LinedList<>();
-        List<Integer> result = new ArrayList<>();
+    public List<List<Integer>> levelOrderTraversal(TreeNode root){
+        Queue<TreeNode> q = new LinkedList<>();
+        List<List<Integer>> result = new ArrayList<>();
         if(root == null) return result;
 
         q.add(root);
