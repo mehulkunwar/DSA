@@ -8,7 +8,7 @@ import java.util.*;
 * Space Complexity - O(n)
 */
 
-public class LevelOrderTraversal {
+public class Q4BinaryTreeLevelOrderTraversal {
 
     public List<List<Integer>> levelOrderTraversal(TreeNode root){
         Queue<TreeNode> q = new LinkedList<>();

@@ -7,7 +7,7 @@ package trees;
  *  Important
  */
 
-public class DiameterOfBinaryTree {
+public class Q7DiameterOfBinaryTree {
     int maxHeight;
 
     public int diameterOfBinaryTree(TreeNode root) {

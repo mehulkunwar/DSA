@@ -1,14 +1,12 @@
 package trees;
 
-import java.util.*;
-
 /*
 * https://leetcode.com/problems/balanced-binary-tree/description/
 * Time Complexity - O(n)
 * Space Complexity - O(n)
 */
 
-public class CheckBalancedBinaryTree {
+public class Q6CheckBalancedBinaryTree {
 
     public boolean isBalanced(TreeNode root) {
         return checkHeight(root) != -1;
