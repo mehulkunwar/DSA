@@ -1,0 +1,52 @@
+DSA Questions
+
+Trees
+1. Binary Tree Inorder Traversal.
+2. Binary Tree Postorder Traversal.
+3. Binary Tree Preorder Traversal.
+4. Binary Tree Level Order Traversal.
+5. Max Depth of Binary Tree.
+6. Check for Balanced Binary Tree.
+7. Diameter of Binary Tree.
+8. Max Path Sum in Binary Tree.
+9. Check if Two Trees are Identical.
+10. Zig-Zag/Spiral Traversal in Binary Tree.
+11. Boundary Traversal in Binary Tree - https://takeuforward.org/practice/dsa/boundary-traversal.
+12. Vertical Order Traversal of Binary Tree.
+13. Top View of a Binary Tree.
+14. Bottom View of a Binary Tree.
+15. Left/Right View of a Binary Tree.
+16. Check for Symmetrical Binary Tree.
+17. Print Root to Node Path in Binary Tree.
+18. LCA in Binary Tree.
+19. Max. Width of Binary Tree.
+20. Children Sum Property in Binary Tree.
+21. Print all the nodes at a distance of K in Binary Tree.
+22. Minimum Time take to Burn a Binary Tree from a node.
+23. Count total nodes in a Complete Binary Tree.
+24. Construct a Binary Tree using PostOrder & InOrder - VVIP.
+25. Construct a Binary Tree using PreOrder & InOrder - VVIP.
+26. Serialize and Deserialize a Binary Tree - VVIP.
+27. Morris Traversal.
+28. Flatten a Binary Tree to Linked List.
+29. Search in a Binary Search Tree.
+30. Ceil in a Binary Search Tree.
+31. Floor in a Binary Search Tree.
+32. Insert a given node in a Binary Search Tree.
+33. Delete a node in Binary Search Tree.
+34. K-th smallest/largest element in Binary Search Tree.
+35. Check if a tree is BST or BT.
+36. LCA in BST.
+37. Contsruct a BST from Preorder traversal.
+38. Inorder Successor/Processor in BST.
+
+Arrays
+1. Contains Duplicate.
+2. Two Sum.
+3. Valid Anagram.
+4. Group Anagrams.
+5. Top K Frequent Elements - Solve with Bucket Sort + Learn Comparator for MinHeap.
+6. Encode & Decode Strings.
+
+Note - Static + Queueu implementation + arraydequeu usage.
+Diameter - use a simple global variable.
