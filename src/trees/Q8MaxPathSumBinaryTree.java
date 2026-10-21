@@ -7,7 +7,7 @@ package trees;
  */
 
 
-public class MaxPathSumBinaryTree {
+public class Q8MaxPathSumBinaryTree {
     int max;
     public int maxPathSum(TreeNode root) {
         if(root == null) return 0;

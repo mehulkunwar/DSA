@@ -8,7 +8,7 @@ import java.util.*;
  * Space Complexity - O(n)
 */
 
-public class PreorderTraversal {
+public class Q2BinaryTreePreorderTraversal {
     public List<Integer> preorderTraversal(TreeNode root) {
         List<Integer> result = new ArrayList<>();
         preOrder(root,result);

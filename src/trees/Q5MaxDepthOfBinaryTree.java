@@ -1,14 +1,12 @@
 package trees;
 
-import java.util.*;
-
 /*
 * https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
 * Time Complexity - O(n)
 * Space Complexity - O(n)
 */
 
-public class MaximumDepthOfBinaryTree {
+public class Q5MaxDepthOfBinaryTree {
 
     public int maxDepth(TreeNode root) {
         if(root == null) return 0;
